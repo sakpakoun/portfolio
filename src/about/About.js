@@ -19,10 +19,11 @@ class About extends React.Component {
 <h1 className="title">About Me</h1>
    <img className="profilePic" src={profilePic} alt="profilePic"/><p>I am Stephanie Akpakoun. I originally come from {benin}.
     I have always had a passion for technology and electronics. 
-   I am a fervent advocate of Technology education and speak and lead workshops for young girls in STEM with various involvements in {codeCrush},
+   I am an advocate of technology education and like to get involved with various organizations that promote STEM education for girls. 
+   I have given talks and led coding workshops for {codeCrush},
    {girlScout} and the {urbanLeague}. I am also a member of the Cercle Social non profit whose goal is to provide 
    access to technology to underprivileged youth in rural parts of Benin. 
-    I have 5 years of experience in various front end and back end technologies and software development methodologies. More on that in my 
+    I have five years of experience in various front end and back end technologies and software development methodologies. More on that in my 
     resume below. I enjoy challenges and thrive on change. I like to stay moving, so when I am not working, I spend my time traveling,
      being outdoors hiking or biking. Or in the cooler months, I like to knit, read or work on DIY projects such as an aquaponics garden or making yogurt, cheese and kombucha.</p>  
   
