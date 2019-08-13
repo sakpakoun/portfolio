@@ -20,7 +20,7 @@ class About extends React.Component {
    <img className="profilePic" src={profilePic} alt="profilePic"/><p>I am Stephanie Akpakoun. I originally come from {benin}.
     I have always had a passion for technology and electronics. 
    I am a fervent advocate of Technology education and speak and lead workshops for young girls in STEM with various involvements in {codeCrush},
-   {girlScout} and The {urbanLeague}. I am also a member of the Cercle Social non profit whose goal is to provide 
+   {girlScout} and the {urbanLeague}. I am also a member of the Cercle Social non profit whose goal is to provide 
    access to technology to underprivileged youth in rural parts of Benin. 
     I have 5 years of experience in various front end and back end technologies and software development methodologies. More on that in my 
     resume below. I enjoy challenges and thrive on change. I like to stay moving, so when I am not working, I spend my time traveling,

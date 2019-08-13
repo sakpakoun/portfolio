@@ -14,9 +14,10 @@ class Skills extends React.Component {
   <div className="column">
   <div className="column1"><h2 className="whiteText">Design</h2></div>
   <p>Design is not only about creating a 
-  beautiful presentation but also about giving the user a functional, usable and responsive 
-   experience. I have worked on revamping old sites and creating new user journeys for different applications -Financial, Security, Commercial etc...
-   Being able to understand the unique requirements based on the type of user and their business processes is key to the greatest User Experiences.
+  beautiful presentation, but also about giving the user a functional, usable and responsive 
+   experience. I have worked on revamping old sites and creating new user journeys for different applications in the financial, securityand 
+   commercial sector.
+   Being able to understand the unique system requirements based on the types of users and their business processes is key to the greatest user experiences.
 </p></div>
   <div className="column">
   <div className="row">
@@ -24,8 +25,8 @@ class Skills extends React.Component {
   <p>Development is about solving problems by creating robust software. The best software is the kind that is 
   taken for granted because it always runs so smoothly.
   Whether working for a forune 200 company or working on personal projects, I always strive to create such applications. 
-  This is accomplished through rigorous software engineering rules,
-  testing and the firm belief that code can always be optimized.
+  Iaccomplish this through rigorous software engineering rules,
+  testing and a firm belief that code can always be optimized.
    </p></div>
   <div className="column">
   <div className="column3"><h2 className="whiteText">Support</h2></div>
