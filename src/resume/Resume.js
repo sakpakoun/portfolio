@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Grid } from 'semantic-ui-react';
 import { Document, Page } from 'react-pdf';
 import { pdfjs } from 'react-pdf';
-import resumeFile from './resume.pdf';
+import resumeFile from './resume2.pdf';
 import { Button } from 'react-bootstrap';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
