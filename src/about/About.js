@@ -25,8 +25,8 @@ class About extends React.Component {
    access to technology to underprivileged youth in rural parts of Benin. 
     I have five years of experience in various front end and back end technologies and software development methodologies. More on that in my 
     resume below. I enjoy challenges and thrive on change. I like to stay moving, so when I am not working, I spend my time traveling,
-     being outdoors hiking or biking. Or in the cooler months, I like to knit, read or work on DIY projects such as an aquaponics garden or making yogurt, cheese and kombucha.</p>  
-  
+     being outdoors hiking or biking. In the cooler months, I like to knit, read or work on DIY projects such as an aquaponics garden or making yogurt, cheese and kombucha.</p>
+
   
 </div>
 </div>
